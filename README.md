@@ -13,8 +13,8 @@ Here is a link to the page!
  https://mwjones2186.github.io/calendar-planner/
  
  Here are a few screen shots of the page!
- 
-![127 0 0 1_5502_](https://user-images.githubusercontent.com/97492542/172770250-22ca2928-1bab-4914-91b7-0e529f5e4c65.png)
-![127 0 0 1_5502_ (1)](https://user-images.githubusercontent.com/97492542/172770259-dbfa2fdb-6892-40d3-9242-f5377a15c451.png)
-![calendar storage](https://user-images.githubusercontent.com/97492542/172770279-02a1e589-b2c3-4857-90c5-78f68bb9c90d.png)
+
+![127 0 0 1_5502_ (1)](https://user-images.githubusercontent.com/97492542/172770721-7817430a-55d4-4dce-9211-f633fed90f60.png)
 ![127 0 0 1_5502_ (1)](https://user-images.githubusercontent.com/97492542/172770436-06846cef-4f08-4f6e-b37f-782d894cf28b.png)
+<img width="958" alt="calendar storage" src="https://user-images.githubusercontent.com/97492542/172770624-a04e9c30-010d-4661-91fe-7a458efca05a.png">
+
