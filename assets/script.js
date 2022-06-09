@@ -55,4 +55,20 @@ $("#20 .description").val(localStorage.getItem("20"))
 
 //      THEN each time block is color-coded to indicate whether it is in the past, present, or future
 //      WHEN I click into a time block
+function formatTime(){
+    var momentHour = moment().hour()
 
+    $('.time-block').each(function(){
+        var rowHour =parseInt($(this).attr('id'))
+
+        if(rowHour < momentHour){
+            $(this).addClass('past')
+        }else if (rowHour > momentHour){
+            $(this).addClass('future')
+        }else(rowHour === momentHour)
+            $(this).addClass('present')
+
+        
+    })
+}
+formatTime()
