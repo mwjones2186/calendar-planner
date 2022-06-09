@@ -62,9 +62,9 @@ function formatTime(){
         var rowHour =parseInt($(this).attr('id'))
 
         if(rowHour < momentHour){
-            $(this).addClass('past')
-        }else if (rowHour > momentHour){
             $(this).addClass('future')
+        }else if (rowHour > momentHour){
+            $(this).addClass('past')
         }else(rowHour === momentHour)
             $(this).addClass('present')
 
